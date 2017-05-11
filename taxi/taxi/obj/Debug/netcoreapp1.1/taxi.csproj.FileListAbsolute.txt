@@ -1,0 +1,9 @@
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\bin\Debug\netcoreapp1.1\taxi.deps.json
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\bin\Debug\netcoreapp1.1\taxi.runtimeconfig.json
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\bin\Debug\netcoreapp1.1\taxi.runtimeconfig.dev.json
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\bin\Debug\netcoreapp1.1\taxi.dll
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\bin\Debug\netcoreapp1.1\taxi.pdb
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\obj\Debug\netcoreapp1.1\taxi.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\obj\Debug\netcoreapp1.1\taxi.AssemblyInfo.cs
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\obj\Debug\netcoreapp1.1\taxi.dll
+c:\users\p501\documents\visual studio 2017\Projects\taxi\taxi\obj\Debug\netcoreapp1.1\taxi.pdb
